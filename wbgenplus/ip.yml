@@ -1,0 +1,14 @@
+# routertl-stubs/wbgenplus — synthetic stub for the wbgenplus_pkg phantom
+# (RTL-P4.35).  See wbgenplus_pkg.vhd header for full provenance.
+
+ip:
+  name: wbgenplus
+  library: work
+  description: >
+    Synthetic stub for upstream-phantom wbgenplus_pkg.vhd.  Empty
+    package satisfying `use work.wbgenplus_pkg.all` clauses emitted
+    unconditionally by mkreider/wbgenplus's codegen.
+
+sources:
+  vhdl:
+    - wbgenplus_pkg.vhd
